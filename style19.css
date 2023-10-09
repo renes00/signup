@@ -1,0 +1,41 @@
+.box{
+	background-color:#78CD8A;
+	width: 1200px;
+	height:200px;
+	color:#FFFFFF;
+	position: relative;
+	left:15px
+}
+.box p{
+	position: relative;
+	left:25px;
+	top:50px;
+	font-size:30px;
+}
+.box button {
+	position: relative;
+	left:800px;
+	top:-50px;
+	border:none;
+	width:110px;
+	height:30px;	
+	font-size:11px;
+}
+.box2{
+	background-color:#F6F5F5;
+	width: 1200px;
+	height:350px;
+	position: relative;
+	left:15px;
+	margin-top:60px;
+}
+.box2 p{
+	text-align: center;
+	position: relative;
+	top:25px;
+}
+.box2 img{
+	position:relative;
+	left:200px;
+	top:55px;
+}
